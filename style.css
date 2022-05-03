@@ -1,0 +1,52 @@
+*{
+  margin: 0; 
+  padding: 0;
+}
+
+.something {
+  background: #128c7e;
+  display: block;
+  text-align: center;
+}
+
+#menu{
+  display: block;
+  text-align: center;
+}
+
+.menu{
+  width: 35px;
+  height: 5px;
+  background-color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.one{
+  display: block;
+  background: #128c7e;
+  text-align: center;
+  color: #ffffff;
+  margin-bottom: -170px;
+}
+
+.logo{
+  max-width: 20%;
+  max-height: 20%;
+}
+
+.intro{
+  margin: 10px 10px 10px 10px;
+}
+
+.two{
+  display: block;
+  background: #d8e8ea;
+  text-align: center;
+  color: #1c1e21;
+}
+
+.three{
+  display: block;
+  background: #e7f0e4;
+  text-align: center;
+}
