@@ -100,3 +100,13 @@ h1{
   background: #ffffff;
   border-radius: 30px;
 }
+
+footer{
+  background: #273443;
+  color: #ffffff;
+}
+
+.foot{
+  background: #1c1e21;
+  padding: 18px;
+}
